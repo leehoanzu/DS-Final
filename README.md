@@ -11,7 +11,7 @@
 
 * Another
 
-![Log](https://github.com/leehoanzu/deepstream-analytics/blob/main/images/test.jpg)
+![Log](https://github.com/leehoanzu/deepstream-analytics/blob/main/images/reference.jpg)
 
 ### Contact
 
